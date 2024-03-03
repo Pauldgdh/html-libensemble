@@ -1,0 +1,19 @@
+body{
+    background-color: #E0D8CB;
+}
+img{
+    background-color: #E0D8CB;
+}
+.nav-pills{
+    display: flex;
+    gap: 1rem;
+}
+.dropdown-menu{
+    background-color: firebrick;
+}
+.dropdown-item:focus{
+    background-color: firebrick;
+}
+.btn-secondary{
+    background-color: firebrick;
+}
